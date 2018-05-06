@@ -1,4 +1,4 @@
-# Overbaked
+# Overbaked!
 
 A clone of the game Overcooked!
 
